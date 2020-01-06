@@ -1,4 +1,5 @@
-# https://stackoverflow.com/questions/54616638/download-all-pdf-files-from-a-website-using-python
+# This program downloads all pdf files referenced in a web page and save them in a local folder.
+# Source: https://stackoverflow.com/questions/54616638/download-all-pdf-files-from-a-website-using-python
 
 import os
 import requests
